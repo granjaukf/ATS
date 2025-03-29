@@ -58,17 +58,15 @@ In addition to the core tasks, the following optional goals were also addressed:
 - 🧪 **Java-based Property Testing Tools**:  
   Experimented with Java libraries for property-based testing (e.g., *jqwik*, *QuickTheories*) to test invariants in a structured and automated way.
 
-
-
 ---
 
 ## Deliverables
 
-- 📂 JUnit Test Suites (Manual + EvoSuite)
-- 📈 Coverage Reports (JaCoCo)
-- ☠️ Mutation Testing Reports (PIT)
-- 🔍 Property-Based Test Classes
-- 📝 Full Technical Report with Visual Analysis
+-  JUnit Test Suites (Manual + EvoSuite)
+-  Coverage Reports (JaCoCo)
+-  Mutation Testing Reports (PIT)
+-  Property-Based Test Classes
+-  Full Technical Report with Visual Analysis
 
 ---
 
