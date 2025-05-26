@@ -1,0 +1,16 @@
+# Classes compiladas
+*.class
+
+# Ficheiros do Bluej
+*.ctxt
+#*.bluej
+
+# Pacotes de ficheiros #
+*.jar
+*.zip
+*.tar.gz
+*.rar
+
+# Documentação do Bluej
+./doc/*
+./Projeto/doc/*
