@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.825" tests="21" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.solucao1.AppDesportiva_ESTest" time="1.201" tests="21" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="PT"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
-    <property name="sun.java.command" value="/home/tomas/LEI/3ANO/2SEM/ATS/ATS/EvoSuiteJacoco/Solucao1/target/surefire/surefirebooter1244230477523540473.jar /home/tomas/LEI/3ANO/2SEM/ATS/ATS/EvoSuiteJacoco/Solucao1/target/surefire 2025-06-04T21-01-38_003-jvmRun1 surefire9157478073374163302tmp surefire_01421752035635430700tmp"/>
+    <property name="sun.java.command" value="/home/tomas/LEI/3ANO/2SEM/ATS/ATS/EvoSuiteJacoco/Solucao1/target/surefire/surefirebooter8651420446749940672.jar /home/tomas/LEI/3ANO/2SEM/ATS/ATS/EvoSuiteJacoco/Solucao1/target/surefire 2025-06-04T22-30-20_362-jvmRun1 surefire3784282343832565699tmp surefire_06194804845547252811tmp"/>
     <property name="surefire.test.class.path" value="/home/tomas/LEI/3ANO/2SEM/ATS/ATS/EvoSuiteJacoco/Solucao1/target/test-classes:/home/tomas/LEI/3ANO/2SEM/ATS/ATS/EvoSuiteJacoco/Solucao1/target/classes:/home/tomas/.m2/repository/org/junit/jupiter/junit-jupiter/5.9.2/junit-jupiter-5.9.2.jar:/home/tomas/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.2/junit-jupiter-params-5.9.2.jar:/home/tomas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar:/home/tomas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar:/home/tomas/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/tomas/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar:/home/tomas/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/tomas/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/tomas/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/tomas/.m2/repository/org/junit/vintage/junit-vintage-engine/5.9.1/junit-vintage-engine-5.9.1.jar:/home/tomas/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar:/home/tomas/.m2/repository/org/evosuite/evosuite-standalone-runtime/1.0.6/evosuite-standalone-runtime-1.0.6.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/tomas"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/tomas/LEI/3ANO/2SEM/ATS/ATS/EvoSuiteJacoco/Solucao1/target/surefire/surefirebooter1244230477523540473.jar:/home/tomas/.m2/repository/org/jacoco/org.jacoco.agent/0.8.8/org.jacoco.agent-0.8.8-runtime.jar"/>
+    <property name="surefire.real.class.path" value="/home/tomas/LEI/3ANO/2SEM/ATS/ATS/EvoSuiteJacoco/Solucao1/target/surefire/surefirebooter8651420446749940672.jar:/home/tomas/.m2/repository/org/jacoco/org.jacoco.agent/0.8.8/org.jacoco.agent-0.8.8-runtime.jar"/>
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_452-8u452-ga~us1-0ubuntu1~22.04-b09"/>
@@ -60,7 +60,7 @@
     <property name="java.class.version" value="52.0"/>
     <property name="use_separate_classloader" value="false"/>
   </properties>
-  <testcase name="test08" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.002">
+  <testcase name="test08" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.001">
     <system-out><![CDATA[
 
 
@@ -738,7 +738,7 @@ Opção 0: Voltar ao setup
 Opção: Data atual da simulação: 2014-02-14
 ]]></system-out>
   </testcase>
-  <testcase name="test06" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.001">
+  <testcase name="test06" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.002">
     <system-out><![CDATA[
 
 
@@ -1030,7 +1030,7 @@ Opção: 1: Desde sempre
 2: Entre datas
 ]]></system-out>
   </testcase>
-  <testcase name="test17" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.121">
+  <testcase name="test17" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.1">
     <system-out><![CDATA[
 
 
@@ -11800,7 +11800,7 @@ Opção:
 Insira o nome do ficheiro a carregar
 ]]></system-out>
   </testcase>
-  <testcase name="test00" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.001">
+  <testcase name="test00" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.002">
     <system-out><![CDATA[
 
 
@@ -12582,7 +12582,7 @@ Opção:
 Insira o código do utilizador
 ]]></system-out>
   </testcase>
-  <testcase name="test01" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.002">
+  <testcase name="test01" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.001">
     <system-out><![CDATA[
 
 
@@ -13558,7 +13558,7 @@ Opção:
 Insira o codigo do utilizador
 ]]></system-out>
   </testcase>
-  <testcase name="test10" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.679">
+  <testcase name="test10" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="1.074">
     <system-out><![CDATA[
 
 
@@ -24237,7 +24237,7 @@ Opção: null
 Enter para continuar
 ]]></system-out>
   </testcase>
-  <testcase name="test15" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0">
+  <testcase name="test15" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.001">
     <system-out><![CDATA[
 
 
@@ -25107,7 +25107,7 @@ Utilizador não existe.
 Enter para continuar
 ]]></system-out>
   </testcase>
-  <testcase name="test02" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0">
+  <testcase name="test02" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.001">
     <system-out><![CDATA[
 
 
@@ -25484,7 +25484,7 @@ Opção:
 Programa encerrado
 ]]></system-out>
   </testcase>
-  <testcase name="test13" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.002">
+  <testcase name="test13" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0">
     <system-out><![CDATA[
 
 
@@ -26463,7 +26463,7 @@ Opção 0: Voltar
 Opção: Insira o código do utilizador
 ]]></system-out>
   </testcase>
-  <testcase name="test14" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0">
+  <testcase name="test14" classname="com.mycompany.solucao1.AppDesportiva_ESTest" time="0.001">
     <system-out><![CDATA[
 
 
