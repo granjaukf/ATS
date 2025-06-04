@@ -22,3 +22,22 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/EvoSuite/target/
+/EvoSuite/Solucao1/Solucao1/nbproject/
+/EvoSuite/Solucao1/Solucao1/target/
+/Evosuite/Solucao1/target/
+/Evosuite/Solucao1/nbproject/
+/EvosuiteJacoco/Solucao1/nbproject/
+/EvosuiteJacoco/Solucao1/target/
+/QuickCheck/Solucao1/nbproject/
+/QuickCheck/Solucao1/target/
+/PPT/Solucao1/nbproject/
+/PPT/Solucao1/target/
+/PBT/Solucao1/nbproject/
+/PBT/Solucao1/target/
+/PIT/Solucao1/nbproject/
+/PIT/Solucao1/target/
+/JUnitTestLLM/Solucao1/nbproject/
+/JUnitTestLLM/Solucao1/target/
+/JUnitTests_LLM/Solucao1/nbproject/
+/JUnitTests_LLM/Solucao1/target/

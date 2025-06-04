@@ -1,0 +1,4 @@
+grant {
+    permission java.lang.RuntimePermission "loggerFinder";
+    permission java.lang.RuntimePermission "accessDeclaredMembers";
+};
