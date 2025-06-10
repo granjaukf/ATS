@@ -4,6 +4,8 @@
 
 University of Minho
 
+##### Final Grade: 17/20 
+
 ## Project Overview
 
 This project was developed in the context of the "Análise e Teste de Software" course, supervised by **João Saraiva** and **José Nuno Macedo**.
